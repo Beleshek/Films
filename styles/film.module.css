@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+
+.input {
+    padding: 10px;
+    width: 300px;
+}
+
+.list {
+    list-style-type: none;
+    margin-top: 10px;
+    background-color: lightgrey;
+    
+}
+
+.item {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.item img {
+    width: 100px;
+}
